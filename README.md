@@ -24,7 +24,8 @@ print(x)
 ```
 
 ## Output:
-![output](image.png)
+<img width="756" height="854" alt="image" src="https://github.com/user-attachments/assets/17a43909-199d-49e5-a1bb-4452418d534d" />
+
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
